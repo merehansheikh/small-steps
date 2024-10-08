@@ -1,5 +1,0 @@
-from math import *
-D=float(input('Enter value in degrees:'))
-Degree=pi/180
-value_in_radians=Degree*D
-print('Value in radians:', value_in_radians)
